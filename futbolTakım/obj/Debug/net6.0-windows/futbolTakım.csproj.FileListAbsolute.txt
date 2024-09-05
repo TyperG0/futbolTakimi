@@ -1,0 +1,16 @@
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\bin\Debug\net6.0-windows\futbolTakım.exe
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\bin\Debug\net6.0-windows\futbolTakım.deps.json
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\bin\Debug\net6.0-windows\futbolTakım.runtimeconfig.json
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\bin\Debug\net6.0-windows\futbolTakım.dll
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\bin\Debug\net6.0-windows\futbolTakım.pdb
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\obj\Debug\net6.0-windows\futbolTakım.Form1.resources
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\obj\Debug\net6.0-windows\futbolTakım.csproj.GenerateResource.cache
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\obj\Debug\net6.0-windows\futbolTakım.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\obj\Debug\net6.0-windows\futbolTakım.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\obj\Debug\net6.0-windows\futbolTakım.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\obj\Debug\net6.0-windows\futbolTakım.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\obj\Debug\net6.0-windows\futbolTakım.dll
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\obj\Debug\net6.0-windows\refint\futbolTakım.dll
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\obj\Debug\net6.0-windows\futbolTakım.pdb
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\obj\Debug\net6.0-windows\futbolTakım.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Masaüstü\Projeler\C#\futbolTakım\obj\Debug\net6.0-windows\ref\futbolTakım.dll
